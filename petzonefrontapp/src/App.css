@@ -38,9 +38,16 @@
 }
 #loginForm {
   background-color: #1a1b22;
-  width: 50vh;
+  width: 70vh;
 
   padding: 1rem;
   display: flex;
   flex-direction: column;
+}
+#titulo {
+  font-family: "Kaushan Script";
+  font-size: 10vh;
+}
+.imglogo {
+  padding: 2rem;
 }
